@@ -1,0 +1,11 @@
+pattern_id,predicate,sup,card_class,acc_exact_match%,acc_edit_sim%,acc_jaccard_sim%,acc_rouge_l%,acc_bleu%,acc_bert_cosine%,n_q
+P1,author,19810,few,0.196078431372549,0.196078431372549,0.7843137254901961,0.196078431372549,0.196078431372549,0.196078431372549,510
+P1,author,19810,many,0.0,0.0,0.0,0.0,0.0,0.0,3
+P1,author,19810,single,0.95,1.35,1.075,1.375,0.2249999999999999,1.375,4000
+P2,illustrator,369,few,0.0,0.0,0.0,0.0,0.0,0.0,1
+P2,illustrator,369,single,0.0,0.0,0.0,0.0,0.0,0.0,367
+P3,coverArtist,294,single,0.0,0.3401360544217687,0.0,0.3401360544217687,0.0,0.3401360544217687,294
+P4,translator,184,few,0.0,0.0,0.0,0.0,0.0,0.0,7
+P4,translator,184,many,0.0,0.0,0.0,0.0,0.0,0.0,1
+P4,translator,184,single,0.0,0.0,0.0,0.0,0.0,0.0,167
+P8,publisher,41,single,0.0,0.0,0.0,0.0,0.0,0.0,41
