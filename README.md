@@ -27,6 +27,8 @@ DBpedia 2015 snapshot (46M triples) ensures compatibility with LLM pre-training 
 
 82,338 QA pairs covering subject-wise and object-wise queries, with cardinality bins (single, few, many) and entity popularity (PageRank quartiles) for patterns Book-Writer and TelevisionShow-Person.
 
+In ordet to use it, please combine all the parts in order to et the original zip file containing the dataset in .nt format
+
 ## Supported Models
 - LLaMA 3.2 8B
 - Mistral 7B
